@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Favicon Spark Badge</title>
+  <rect x="4" y="4" width="56" height="56" rx="15" fill="#ffe45e" stroke="#111" stroke-width="5"/>
+  <circle cx="32" cy="32" r="18" fill="#8edbff" stroke="#111" stroke-width="4"/>
+  <path d="M32 13c2.3 11.8 7.2 16.7 19 19-11.8 2.3-16.7 7.2-19 19-2.3-11.8-7.2-16.7-19-19 11.8-2.3 16.7-7.2 19-19Z" fill="#e83f6f" stroke="#111" stroke-width="2.8" stroke-linejoin="round"/>
+</svg>
