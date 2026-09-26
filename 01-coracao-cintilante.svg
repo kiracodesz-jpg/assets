@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Coração Cintilante</title>
+  <path d="M32 57C25 50 7 39 5 25 3 13 11 7 20 8c6 1 10 5 12 10 3-5 7-9 13-10 9-1 17 5 15 17-2 14-21 26-28 32Z" fill="#e83f6f" stroke="#111111" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M48 5c1.2 5.9 3.7 8.4 9.5 9.6-5.8 1.2-8.3 3.7-9.5 9.6-1.2-5.9-3.7-8.4-9.5-9.6C44.3 13.4 46.8 10.9 48 5Z" fill="#ffe45e" stroke="#111111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M14 22c1-4 4-6 8-6" fill="none" stroke="#ffadc2" stroke-width="4" stroke-linecap="round"/>
+</svg>
