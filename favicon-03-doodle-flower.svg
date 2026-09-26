@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Favicon Doodle Flower</title>
+  <path d="M32 7c5.6 0 8.8 7.8 8.8 13.4C45.3 17.1 53 15 56 20c2.8 4.9-2.5 11.3-7.3 14.1 5.1 2.2 11.7 7.4 8.9 12.3-2.8 5-10.8 3.3-15.7.4C41.3 52.3 37.6 60 32 60s-9.4-7.7-9.9-13.2c-4.9 2.9-12.9 4.6-15.8-.4-2.8-4.9 3.9-10.1 9-12.3C10.4 31.3 5 24.9 7.9 20c2.8-5 10.7-2.9 15.2.4C23.2 14.8 26.4 7 32 7Z" fill="#fff" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M32 7c5.6 0 8.8 7.8 8.8 13.4L32 27Z" fill="#ffe45e"/>
+  <path d="M56 20c2.8 4.9-2.5 11.3-7.3 14.1L38 31Z" fill="#e83f6f"/>
+  <path d="M57.6 46.4c-2.8 5-10.8 3.3-15.7.4L37 37Z" fill="#3a86ff"/>
+  <path d="M32 60c-5.6 0-9.4-7.7-9.9-13.2L29 38Z" fill="#8338ec"/>
+  <path d="M6.3 46.4c-2.8-4.9 3.9-10.1 9-12.3L26 34Z" fill="#8edbff"/>
+  <path d="M7.9 20c2.8-5 10.7-2.9 15.2.4L28 29Z" fill="#e76840"/>
+  <circle cx="32" cy="33" r="10" fill="#111"/>
+  <circle cx="29" cy="30" r="2.5" fill="#fff"/>
+</svg>
